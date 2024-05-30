@@ -8,7 +8,7 @@ RK3576 Development Board Product Documentations
 ├── Pictures
 │   ├── Promotion Pictures
 ├── Tools
-├── Firmwars
+├── Firmwares
 ├── Technical Support
 ├── Contacts
 
