@@ -5,6 +5,8 @@ RK3576 Development Board Product Documentations
 │
 ├── README.md
 ├── Docs
+│   ├── Promotion Pictures
+
 ├── Pictures
 ├── Tools
 ├── Firmwars
