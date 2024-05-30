@@ -1,6 +1,6 @@
 # RK3576-Development-Board
 
-# RK3576 Edge Computing Mainboard (SBC) Specifications
+# RK3576 Edge Specifications
 <table border="1">
     <tr>
         <td colspan="3">Model NO. ALLEdge-RK3576A01PoE </td>
@@ -185,3 +185,11 @@
   	    <td>YES</td>
   	</tr>                           
 </table>
+
+# Contacts
+
+- Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
+- E-mail: dennis@we-signage.com
+- MP/Whatsapp/Wechat: + 86 13349909990
+- Skype: solled686
